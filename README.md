@@ -32,14 +32,14 @@ python main.py --mode linear_univariate
 
 ### 🔹 Version 2: Linear Regression (Multivariate)
 
-One input feature and one target variable.
+Multiple input features and one target variable.
 
 ```bash
 python main.py --mode linear_multivariate
 ```
 ### 🔹 Version 3:  Softmax Regression (Multiclass Classification)
 
-One input feature and one target variable.
+Softmax classifier for 3 classes.
 
 ```bash
 python main.py --mode softmax
