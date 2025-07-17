@@ -83,7 +83,7 @@ def main():
         print("Accuracy_Test:", test_accuracy)
 		
     else:
-		## Pre-Processing
+		# Pre-Processing
         Y_train = Y_train.flatten()
         # Normalizing input data
         mean = np.mean(X_train, axis=0) 

@@ -98,7 +98,7 @@ class SoftmaxRegression():
         - z: Input values, shaped as (number of data points, number of classes)
     
         Output:
-        - softmax_output: Resulting softmax activations for the input data
+        - softmax_output: Resulting softmax activations for the input data.
         """
         return (np.exp(z.T) / np.sum(np.exp(z), axis=1)).T
     

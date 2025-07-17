@@ -111,7 +111,7 @@ class LinearRegression():
         - num_iterations: Number of iterations for training
     
         Outputs:
-        - cost_history: List of costs during training
+        - cost_history: List of costs during training.
         """
         
         num_features = X.shape[1]
