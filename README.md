@@ -4,7 +4,7 @@ This project implements **Linear Regression** (univariate and multivariate) and 
 
 ---
 
-## Dataset (Excerpt from Auto Data Set)
+## Dataset Excerpt 
 
 | x1 (cylinders) | x2 (displacement) | x3 (horsepower) | x4 (weight) | x5 (acceleration) | x6 (year) | x7 (origin) | y (mpg) |
 |----------------|-------------------|------------------|--------------|--------------------|------------|--------------|---------|
