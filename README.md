@@ -1,6 +1,6 @@
 # Linear & Softmax Regression (Gradient Descent)
 
-This project implements **Linear Regression** (univariate and multivariate) and **Softmax Regression** (multiclass classification) using **gradient descent**, inspired by *Lindholm, Chapter 5.4*.
+This project implements **Linear Regression** (univariate and multivariate) and **Softmax Regression** (multiclass classification) using **gradient descent**, inspired by *Lindholm et al., Chapter 5.4*.
 
 ---
 
@@ -44,4 +44,11 @@ One input feature and one target variable.
 ```bash
 python main.py --mode softmax
 ```
+
+## Reference
+
+Lindholm, A., Wahlström, N., Lindsten, F., & Schön, T. B. (2022).  
+*Machine Learning: A First Course for Engineers and Scientists*. 1st ed. Cambridge University Press.  
+[https://doi.org/10.1017/9781108919371](https://doi.org/10.1017/9781108919371)
+
 
